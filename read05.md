@@ -13,7 +13,7 @@
 #### ***In any condition, there is usually one operator and two operands. The operands are placed on each side of the operator. They can be values or variables. You often see expressions enclosed in brackets.***
 #### ***Comparison operators usually retum single values of true or false. Logical operators allow you to compare the results of more than one comparison operator.***
 - && Logical AND
-- || Logical OR
+- | | Logical OR
 - ! Logical NOT
 #### ***SHORT-CIRCUIT EVALUATION***
 #### ***Logical expressions are evaluated left to right. If the first condition can provide enough information to get the answer, then there is no need to evaluate the second condition.***
