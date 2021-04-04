@@ -22,6 +22,6 @@ Table of Contents :
 
 | Assignment      | Link                                     |
 | -----------     | -----------------------------------------|
-| Read01          | [class1](class-01.md)                               |
+| Read01          | [class1](class-01.md)                    |
 | Read02          | [class2]()                               |
 | Read03          | [class3]()                               |
