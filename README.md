@@ -10,25 +10,25 @@ Table of Contents :
 
 | Assignment      | Link                                     |
 | -----------     | -----------------------------------------|
-| Read01          | [class1](read01.md)                      |
-| Read02          | [class2](read02.md)                      |
-| Read03          | [class3](read03.md)                      |
-| Read04          | [class4](read04.md)                      |
-| Read05          | [class5](read05.md)                      |
-| Read06          | [class6](read06.md)                      |
+| Read01          | [class1](c102/read01.md)                      |
+| Read02          | [class2](c102/read02.md)                      |
+| Read03          | [class3](c102/read03.md)                      |
+| Read04          | [class4](c102/read04.md)                      |
+| Read05          | [class5](c102/read05.md)                      |
+| Read06          | [class6](c102/read06.md)                      |
 
 ## *Code 201 Reading Notes*
 Table of Contents :
 
 | Assignment      | Link                                      |
 | -----------     | ------------------------------------------|
-| Read01          | [class01](class-01.md)                    |
-| Read02          | [class02](class-02.md)                    |
-| Read03          | [class03](class-03.md)                    |
-| Read04          | [class04](class-04.md)                    |
-| Read05          | [class05](class-05.md)                    |
-| Read06          | [class06](class-06.md)                    |
-| Read07          | [class07](class-07.md)                    |
-| Read08          | [class08](class-08.md)                    |
-| Read09          | [class09](class-09.md)                    |
-| Read10          | [class10](class-10.md)                    |
+| Read01          | [class01](c201/class-01.md)                    |
+| Read02          | [class02](c201/class-02.md)                    |
+| Read03          | [class03](c201/class-03.md)                    |
+| Read04          | [class04](c201/class-04.md)                    |
+| Read05          | [class05](c201/class-05.md)                    |
+| Read06          | [class06](c201/class-06.md)                    |
+| Read07          | [class07](c201/class-07.md)                    |
+| Read08          | [class08](c201/class-08.md)                    |
+| Read09          | [class09](c201/class-09.md)                    |
+| Read10          | [class10](c201/class-10.md)                    |
