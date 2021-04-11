@@ -33,15 +33,35 @@ var hotelName = hotel.name;
 var roomsfree = hotel.checkRoom();
 ```
 
- You can also access properties using square brackets.
+*You can also access properties using square brackets.*
 
- `var hotelName = hotel['name'];`
+```
+var hotelName = hotel['name'];
+```
 
 
- ## JS Chapter 5: “Document Object Model”
+
+## JS Chapter 5: “Document Object Model”
 
  ***The Document Object Model (DOM) specifies how browsers should create a model of an HTML page and how JavaScript can access and update the contents of a web page while it is in the browser window.***
 
+*As a browser loads a web page, it creates a model of that page. The model is called a **DOM tree**, and it is stored in the browsers' memory. It consists of four main types of nodes.*
 
+ 1. DOCUMENT NODE
+ 2. ELEMENT NODES
+ 3. ATTRIBUTE NODES
+ 4. TEXT NODES
+
+***DOM queries** are the methods that find element in the DOM tree*
+
+*Storing elements in variables = storing the location of the element within the DOM tree in a variable*
+
+```
+var itemOne = getElementById ('one');
+```
+
+*But to access the content of the element use the variable name `itemOne.textContent`*
+
+*`getElementById()` and `querySelector()` can both search an entire document and return individual elements.(both use a similar syntax)*
 
 
