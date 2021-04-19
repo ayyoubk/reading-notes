@@ -33,3 +33,6 @@ Table of Contents :
 | Read09          | [class09](c201/class-09.md)                    |
 | Read10          | [class10](c201/class-10.md)                    |
 | Read11          | [class11](c201/class-11.md)                    |
+| Read12          | [class12](c201/class-12.md)                    |
+| Read13          | [class13](c201/class-13.md)                    |
+| Read14          | [class14](c201/class-14.md)                    |
