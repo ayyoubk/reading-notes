@@ -1,5 +1,6 @@
 # **Reading Notes**
 ***This is a summary of what I have read during this course written by Ayyoub Al Keyyam.***
+
 ***Ayyoub Al Keyyam is a 25-year-old civil engineer pursuing to git his dream of becoming a professional software developer.***
 ***You can follow him on [Github](https://github.com/ayyoubk) and [Linkedin](https://www.linkedin.com/in/ayoubq).***
 
