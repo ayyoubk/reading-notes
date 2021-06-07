@@ -10,19 +10,13 @@
 ## React State Vs Props
 
 1. What types of things can you pass in the props?
-
-argument like counter , title ,elc.
+  -  argument like counter , title ,elc.
 
 2. What is the big difference between props and state?
-
-props you pass into the component and state is handle inside of that
-
-component and props handle outside.
+  -  props you pass into the component and state is handle inside of that component and props handle outside.
 
 3. When do we re-render our application?
-
-when you change the state inside of your application.
+  -  when you change the state inside of your application.
 
 4. What are some examples of things that we could store in state?
-
-like counter and any thing change inside the component.
+  -  like counter and any thing change inside the component.
