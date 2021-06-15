@@ -53,3 +53,4 @@ Table of Contents :
 | Class-05   | [Read-05](c301/class-05.md) |
 | Class-06   | [Read-06](c301/class-06.md) |
 | Class-07   | [Read-07](c301/class-07.md) |
+| Class-08   | [Read-08](c301/class-08.md) |
