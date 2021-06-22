@@ -16,6 +16,8 @@
 | Class-10   | [Read-10](./class-10.md) |
 | Class-11   | [Read-11](./class-11.md) |
 | Class-12   | [Read-12](./class-12.md) |
+| Class-13   | [Read-13](./class-13.md) |
+
 
 
 [Home](../README.md)
