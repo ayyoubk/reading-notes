@@ -8,7 +8,7 @@
 ## Table of Contents
 
 | ***Assignment*** | ***Link***                     |
-| ---------- | ------------------------ |
+| ---------- | ------------------------- |
 | *Code-102*     | [Reading Notes 1](c102/readme.md) |
 | *Code-201*     | [Reading Notes 2](c201/readme.md) |
 | *Code-301*     | [Reading Notes 3](c301/readme.md) |
