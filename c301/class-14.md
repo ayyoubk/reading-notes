@@ -2,7 +2,7 @@
 
 ## Consider the history: [That Time When Women Stopped Coding](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding)
 
-1. What occured during the same time as the beginning of the decline of women in computer sciene?
+1. What occurred during the same time as the beginning of the decline of women in computer science?
 
     - personal computers started showing up in U.S. homes in significant numbers.
 
