@@ -78,4 +78,3 @@ int i = new Integer(1); // unboxing
 - White space characters include blanks, tabs, and line terminators
 - Scanner's close is a method that invokes when it is done with the scanner object
 - To use a different token separator, invoke `useDelimiter()`
-- The ScanSum example reads a list of double values and adds them up
