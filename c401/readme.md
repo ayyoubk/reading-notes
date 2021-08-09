@@ -15,6 +15,10 @@
 | Class-09   | [Read-09](./class-09.md) |
 | Class-10   | [Read-10](./class-10.md) |
 | Class-11   | [Read-11](./class-11.md) |
+| Class-12   | [Read-12](./class-12.md) |
+| Class-13   | [Read-13](./class-13.md) |
+| Class-14   | [Read-14](./class-14.md) |
+| Class-15   | [Read-15](./class-15.md) |
 
 
 [Home](../README.md)
