@@ -17,8 +17,8 @@
 | Class-11   | [Read-11](./class-11.md) |
 | Class-12   | [Read-12](./class-12.md) |
 | Class-13   | [Read-13](./class-13.md) |
-| Class-14   | [Read-14](./class-14.md) |
-| Class-15   | [Read-15](./class-15.md) |
+| Class-16   | [Read-16](./class-16.md) |
+| Class-17   | [Read-17](./class-17.md) |
 
 
 [Home](../README.md)
